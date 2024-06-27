@@ -1,5 +1,7 @@
 # Data-Visualization-of-Bird-Strikes-between-2000-2011
+
 **Introduction**
+
 Bird strikes are collisions between birds and aircraft, posing significant risks to aviation safety and causing economic costs. This project provides a comprehensive analysis of bird strikes from 2000 to 2011 using data visualization techniques to uncover patterns and insights.
 
 **Objectives**
